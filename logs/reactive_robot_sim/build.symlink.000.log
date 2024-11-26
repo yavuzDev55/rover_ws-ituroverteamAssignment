@@ -1,0 +1,3 @@
+Symlinking /home/d3vram/rover_ws/devel/lib/pkgconfig/reactive_robot_sim.pc
+Symlinking /home/d3vram/rover_ws/devel/share/reactive_robot_sim/cmake/reactive_robot_simConfig-version.cmake
+Symlinking /home/d3vram/rover_ws/devel/share/reactive_robot_sim/cmake/reactive_robot_simConfig.cmake

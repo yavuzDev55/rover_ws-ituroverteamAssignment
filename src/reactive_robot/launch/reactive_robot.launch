@@ -1,0 +1,9 @@
+<launch>
+    
+    <!-- Simulation package included -->
+    <include file="$(find reactive_robot_sim)/launch/reactive_robot_sim.launch" />
+
+    <!-- keyboard_listener node running-->
+    <node pkg="reactive_robot" type="keyboard_listener.py" name="keyboard_listener" output="screen" />
+
+</launch>
